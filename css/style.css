@@ -36,4 +36,7 @@ ul{
     font-size: 12px; 
 }
 
+.rounded{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 

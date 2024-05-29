@@ -19,12 +19,16 @@ li{
     font-size: 1.5rem;
 }
 
-li:hover{
+ol li:hover{
     color: rgb(21, 146, 146);
 }
 
 ul li{
     margin: 0;
+}
+
+ul{
+    display: inline;
 }
 
 

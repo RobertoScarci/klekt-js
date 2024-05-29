@@ -31,4 +31,9 @@ ul{
     display: inline;
 }
 
+.my_banner{
+    padding: .6rem .8rem;
+    font-size: 12px; 
+}
+
 
